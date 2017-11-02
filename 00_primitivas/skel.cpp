@@ -1,3 +1,5 @@
+/* Esto es un esqueleto de C */
+
 
 #include <stdio.h>
 #include <stdlib.h>
